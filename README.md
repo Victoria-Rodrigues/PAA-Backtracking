@@ -23,7 +23,6 @@ Além disso, tem-se que o caminho deve-se ser percorrido somente uma vez, exceto
 
 - ``Linguagem de programação C``
 - ``Visual Studio Code (VS Code)``
-- ``Projeto e Análise de Algoritmos``
 
 ## 🔨 Funcionalidades do projeto
 
